@@ -6,7 +6,7 @@ class Header extends React.Component {
             <section id="header">
                 <div className="inner">
                     <span className="icon major fa-cloud"></span>
-                    <h1>Welcome to our dev portal. <strong>Developer</strong>, another fine<br />
+                    <h1>Welcome to our dev portal. <strong>Developer</strong>experience<br />
                     little freebie from <a href="http://html5up.net">HTML5 UP</a>.</h1>
                     <p>Learn about our APIs, webhooks and data feeds.<br />
                     Where magic happens.</p>
